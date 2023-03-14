@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RCOdu6DZ2jm5xOjWpDY4EMahtbYipqFyqbQyEcsTHPk=",
+  "Source": "ApiCrudFilmes",
+  "BasePath": "_content/ApiCrudFilmes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
